@@ -1,0 +1,55 @@
+{
+  "name": "react-nutritionix-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "formik": "^2.4.6",
+    "json-server": "^1.0.0-beta.1",
+    "materialize-css": "^1.0.0",
+    "mdb-react-ui-kit": "^8.0.0",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.25.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --watchAll --coverage",
+    "eject": "react-scripts eject",
+    "json-server": "json-server --watch db.json --port 5000"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/register": "^7.24.6",
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^16.0.1",
+    "chai": "^5.1.1",
+    "jsdom": "^25.0.0",
+    "jsdom-global": "^3.0.2",
+    "mocha": "^10.7.3"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "id": "4557",
+      "name": "Rahul",
+      "username": "rahul",
+      "password": "ranjan"
+    },
+    {
+      "id": "65e6",
+      "name": "Ranjan",
+      "username": "ranjan",
+      "password": "ranjan"
+    },
+    {
+      "id": "1bc4",
+      "name": "Testing",
+      "username": "testing123",
+      "password": "testing123"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "3197",
+      "item": {
+        "serving_unit": "medium (7\" to 7-7/8\" long)",
+        "serving_qty": 1,
+        "tag_id": "399",
+        "tag_name": "banana",
+        "food_name": "bananas",
+        "common_type": null,
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/399_thumb.jpg"
+        },
+        "locale": "en_US"
+      },
+      "username": "rahul"
+    },
+    {
+      "id": "b417",
+      "item": {
+        "serving_unit": "medium",
+        "serving_qty": 1,
+        "tag_id": "2207",
+        "tag_name": "banana muffin",
+        "food_name": "banana muffin",
+        "common_type": null,
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/2207_thumb.jpg"
+        },
+        "locale": "en_US"
+      },
+      "username": "rahul"
+    },
+    {
+      "id": "a068",
+      "item": {
+        "serving_unit": "cup chopped",
+        "serving_qty": 1,
+        "tag_id": "7677",
+        "tag_name": "carrots, raw",
+        "food_name": "carrot raw",
+        "common_type": null,
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/7677_thumb.jpg"
+        },
+        "locale": "en_US"
+      },
+      "username": "ranjan"
+    },
+    {
+      "id": "6dd2",
+      "item": {
+        "serving_unit": "cup",
+        "serving_qty": 1,
+        "tag_id": "189",
+        "tag_name": "green beans",
+        "food_name": "green beans",
+        "common_type": null,
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/189_thumb.jpg"
+        },
+        "locale": "en_US"
+      },
+      "username": "ranjan"
+    },
+    {
+      "id": "e224",
+      "item": {
+        "food_name": "apples",
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/384_thumb.jpg"
+        },
+        "tag_name": "apple",
+        "serving_qty": 1,
+        "serving_unit": "medium (3\" dia)",
+        "tag_id": "384",
+        "common_type": null,
+        "locale": "en_US"
+      },
+      "username": "rahul"
+    },
+    {
+      "id": "59f4",
+      "item": {
+        "food_name": "guavas",
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/605_thumb.jpg"
+        },
+        "tag_name": "guava",
+        "serving_qty": 1,
+        "serving_unit": "cup",
+        "tag_id": "605",
+        "common_type": null,
+        "locale": "en_US"
+      },
+      "username": "rahul"
+    },
+    {
+      "id": "bb6b",
+      "item": {
+        "food_name": "fried rice",
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/1348_thumb.jpg"
+        },
+        "tag_name": "fried rice",
+        "serving_qty": 1,
+        "serving_unit": "cup",
+        "tag_id": "1348",
+        "common_type": null,
+        "locale": "en_US"
+      },
+      "username": "rahul"
+    },
+    {
+      "id": "8859",
+      "item": {
+        "food_name": "paneer",
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/1772_thumb.jpg"
+        },
+        "tag_name": "Paneer",
+        "serving_qty": 1,
+        "serving_unit": "cup, crumbled",
+        "tag_id": "1772",
+        "common_type": null,
+        "locale": "en_US"
+      },
+      "username": "rahul"
+    },
+    {
+      "id": "56dc",
+      "item": {
+        "food_name": "appletini",
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/5031_thumb.jpg"
+        },
+        "tag_name": "appletini",
+        "serving_qty": 1,
+        "serving_unit": "cocktail",
+        "tag_id": "5031",
+        "common_type": null,
+        "locale": "en_US"
+      },
+      "username": "rahul"
+    },
+    {
+      "id": "89d1",
+      "item": {
+        "food_name": "pizza",
+        "photo": {
+          "thumb": "https://nix-tag-images.s3.amazonaws.com/1060_thumb.jpg"
+        },
+        "tag_name": "pizza",
+        "serving_qty": 1,
+        "serving_unit": "slice",
+        "tag_id": "1060",
+        "common_type": null,
+        "locale": "en_US"
+      },
+      "username": "rahul"
+    }
+  ]
+}

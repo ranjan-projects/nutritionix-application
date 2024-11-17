@@ -1,0 +1,12 @@
+.item {
+    margin: 2px;
+    height: 30rem;
+    width: 14rem
+}
+
+.item img {
+    width: 12rem;
+    height: 12rem;
+    padding-left: 8px;
+    padding-top: 8px;
+}

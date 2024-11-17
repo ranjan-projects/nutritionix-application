@@ -1,0 +1,17 @@
+.item {
+    margin: 2px;
+    height: 24rem;
+    width: 14rem;
+    word-wrap: normal !important;
+}
+
+.item img {
+    width: 12rem;
+    height: 12rem;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+.message-banner {
+    border: 3px solid black;
+}

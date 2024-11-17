@@ -1,0 +1,10 @@
+.items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.favourite-banner {
+    padding: 10px 0;
+    text-align: center;
+    margin: 4px 0;
+}

@@ -1,0 +1,31 @@
+.registration-form {
+    padding-top: 20px;
+    margin-right: 20px;
+}
+
+.registration-header {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.registration-image {
+    width: 75%;
+}
+
+.register-page {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    height: 95%;
+    width: 100%;
+    padding: 3px;
+
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.banner-message {
+    padding-top: 10px;
+}

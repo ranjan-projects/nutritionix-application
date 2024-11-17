@@ -1,0 +1,26 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding-top: 0;
+
+}
+
+.home-container img {
+    padding-top: 5px;
+    width: 100%;
+    height: 85vh !important;
+}
+
+.carousel-caption {
+    color: black !important;
+    font-weight: bold;
+}
+
+.home-actions {
+    margin: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
